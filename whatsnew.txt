@@ -1,4 +1,4 @@
-- fixed: key box could wrap to two lines when pasting a key copied from chat
-- keys now clean themselves on paste (line breaks and extra text are stripped)
-- update channel moved to a faster public host
+- fixed: pasting a key a second time used to append two keys together (now it replaces the box)
+- keys from chat paste clean every time - line breaks and extra text stripped
+- test keys supported: unbound keys auto-bind to your machine on first activation
 - general stability fixes
