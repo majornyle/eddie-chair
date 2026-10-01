@@ -1,0 +1,5 @@
+- rebuilt loader: faster startup, smoother update screen
+- license keys: activate once on your machine, remembered after
+- window remembers its position (opens centered the first time)
+- exit thanks popup - reviews help a lot
+- polish and fixes across the board
