@@ -1,4 +1,5 @@
-- fixed: pasting a key a second time used to append two keys together (now it replaces the box)
-- keys from chat paste clean every time - line breaks and extra text stripped
-- test keys supported: unbound keys auto-bind to your machine on first activation
-- general stability fixes
+- auto-update now finishes by itself: downloads, installs, restarts the app - no more stuck update screen
+- update screen shows real status (downloading vs installing)
+- fixed: pasting a key a second time used to append two keys together
+- keys from chat paste clean every time
+- test keys: unbound keys auto-bind to your machine on first activation
